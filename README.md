@@ -9,6 +9,7 @@ Automation farming Script for Dawn Validator using proxies. This bot support mul
 - Press F12 or CTRL+SHIFT+I and Select Network
 - Look for ``getpoint?appid=`` as image. If it doesn't show "getpoint?appid" then press F5
 - Open request headers and copy the token. Bearer ``a1b2c3d4ef5g`` < your token
+  ![image1](https://github.com/user-attachments/assets/249d4e25-5d24-40fc-b572-d6331c402048)
 - Insert your account details in ``accounts.txt``, with each line in the format ``email:token`` for each account, like:
 ```bash
 email:token
