@@ -13,8 +13,6 @@ Automation farming Script for Dawn Validator using proxies. This bot support mul
 - Insert your account details in ``accounts.txt``, with each line in the format ``email:token`` for each account, like:
 ```bash
 email:token
-email:token
-email:token
 ```
 # Installation
 - Install Python For Windows: [Python](https://www.python.org/ftp/python/3.13.0/python-3.13.0-amd64.exe)
